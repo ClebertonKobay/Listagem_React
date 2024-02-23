@@ -1,0 +1,413 @@
+{
+    "tags":[
+        {
+            "title": "React",
+            "amountOfVideos":142
+        },
+            {
+                "title": "Angular",
+                "amountOfVideos": 84
+            },
+            {
+                "title": "JavaScript",
+                "amountOfVideos": 112
+            },
+            {
+                "title": "Vue.js",
+                "amountOfVideos": 67
+            },
+            {
+                "title": "Django",
+                "amountOfVideos": 45
+            },
+            {
+                "title": "C++",
+                "amountOfVideos": 53
+            },
+            {
+                "title": "Swift",
+                "amountOfVideos": 27
+            },
+            {
+                "title": "PHP",
+                "amountOfVideos": 38
+            },
+            {
+                "title": "HTML",
+                "amountOfVideos": 76
+            },
+            {
+                "title": "CSS",
+                "amountOfVideos": 82
+            },
+            {
+                "title": "React Native",
+                "amountOfVideos": 93
+            },
+            {
+                "title": "TensorFlow",
+                "amountOfVideos": 62
+            },
+            {
+                "title": "Java",
+                "amountOfVideos": 101
+            },
+            {
+                "title": "C#",
+                "amountOfVideos": 74
+            },
+            {
+                "title": "Rust",
+                "amountOfVideos": 19
+            },
+            {
+                "title": "Go",
+                "amountOfVideos": 37
+            },
+            {
+                "title": "Kotlin",
+                "amountOfVideos": 50
+            },
+            {
+                "title": "Ruby on Rails",
+                "amountOfVideos": 41
+            },
+            {
+                "title": "SQL",
+                "amountOfVideos": 89
+            },
+            {
+                "title": "MongoDB",
+                "amountOfVideos": 58
+            },
+            {
+                "title": "TypeScript",
+                "amountOfVideos": 72
+            },
+            {
+                "title": "ASP.NET",
+                "amountOfVideos": 29
+            },
+            {
+                "title": "Unity",
+                "amountOfVideos": 63
+            },
+            {
+                "title": "jQuery",
+                "amountOfVideos": 44
+            },
+            {
+                "title": "Bootstrap",
+                "amountOfVideos": 35
+            },
+            {
+                "title": "Spring Boot",
+                "amountOfVideos": 81
+            },
+            {
+                "title": "Express.js",
+                "amountOfVideos": 56
+            },
+            {
+                "title": "Flask",
+                "amountOfVideos": 48
+            },
+            {
+                "title": "Redux",
+                "amountOfVideos": 69
+            },
+            {
+                "title": "Next.js",
+                "amountOfVideos": 31
+            },
+            {
+                "title": "NestJS",
+                "amountOfVideos": 22
+            },
+            {
+                "title": "Docker",
+                "amountOfVideos": 64
+            },
+            {
+                "title": "GraphQL",
+                "amountOfVideos": 39
+            },
+            {
+                "title": "Jenkins",
+                "amountOfVideos": 26
+            },
+            {
+                "title": "AWS",
+                "amountOfVideos": 57
+            },
+            {
+                "title": "Azure",
+                "amountOfVideos": 47
+            },
+            {
+                "title": "Google Cloud",
+                "amountOfVideos": 36
+            },
+            {
+                "title": "Heroku",
+                "amountOfVideos": 28
+            },
+            {
+                "title": "Netlify",
+                "amountOfVideos": 24
+            },
+            {
+                "title": "Firebase",
+                "amountOfVideos": 53
+            },
+            {
+                "title": "REST API",
+                "amountOfVideos": 88
+            },
+            {
+                "title": "GraphQL API",
+                "amountOfVideos": 42
+            },
+            {
+                "title": "OAuth",
+                "amountOfVideos": 18
+            },
+            {
+                "title": "Webpack",
+                "amountOfVideos": 51
+            },
+            {
+                "title": "Babel",
+                "amountOfVideos": 30
+            },
+            {
+                "title": "ESLint",
+                "amountOfVideos": 23
+            },
+            {
+                "title": "Prettier",
+                "amountOfVideos": 33
+            },
+            {
+                "title": "Jest",
+                "amountOfVideos": 49
+            },
+            {
+                "title": "Mocha",
+                "amountOfVideos": 20
+            },
+            {
+                "title": "Chai",
+                "amountOfVideos": 15
+            },
+            {
+                "title": "Selenium",
+                "amountOfVideos": 34
+            },
+            {
+                "title": "Postman",
+                "amountOfVideos": 46
+            },
+            {
+                "title": "Git",
+                "amountOfVideos": 73
+            },
+            {
+                "title": "GitHub",
+                "amountOfVideos": 65
+            },
+            {
+                "title": "GitLab",
+                "amountOfVideos": 27
+            },
+            {
+                "title": "Bitbucket",
+                "amountOfVideos": 12
+            },
+            {
+                "title": "Mercurial",
+                "amountOfVideos": 6
+            },
+            {
+                "title": "Subversion",
+                "amountOfVideos": 8
+            },
+            {
+                "title": "Continuous Integration",
+                "amountOfVideos": 55
+            },
+            {
+                "title": "Continuous Deployment",
+                "amountOfVideos": 40
+            },
+            {
+                "title": "Agile",
+                "amountOfVideos": 70
+            },
+            {
+                "title": "Scrum",
+                "amountOfVideos": 43
+            },
+            {
+                "title": "Kanban",
+                "amountOfVideos": 21
+            },
+            {
+                "title": "Lean",
+                "amountOfVideos": 17
+            },
+            {
+                "title": "DevOps",
+                "amountOfVideos": 59
+            },
+            {
+                "title": "Microservices",
+                "amountOfVideos": 66
+            },
+            {
+                "title": "Serverless",
+                "amountOfVideos": 32
+            },
+            {
+                "title": "Containerization",
+                "amountOfVideos": 60
+            },
+            {
+                "title": "Virtualization",
+                "amountOfVideos": 25
+            },
+            {
+                "title": "RESTful",
+                "amountOfVideos": 77
+            },
+            {
+                "title": "SOAP",
+                "amountOfVideos": 13
+            },
+            {
+                "title": "WebSockets",
+                "amountOfVideos": 16
+            },
+            {
+                "title": "HTTP/2",
+                "amountOfVideos": 9
+            },
+            {
+                "title": "HTTPS",
+                "amountOfVideos": 14
+            },
+            {
+                "title": "OAuth2",
+                "amountOfVideos": 10
+            },
+            {
+                "title": "OpenID Connect",
+                "amountOfVideos": 7
+            },
+            {
+                "title": "JSON Web Tokens",
+                "amountOfVideos": 11
+            },
+            {
+                "title": "CI/CD Pipeline",
+                "amountOfVideos": 52
+            },
+            {
+                "title": "Infrastructure as Code",
+                "amountOfVideos": 61
+            },
+            {
+                "title": "Monitoring",
+                "amountOfVideos": 68
+            },
+            {
+                "title": "Logging",
+                "amountOfVideos": 18
+            },
+            {
+                "title": "Alerting",
+                "amountOfVideos": 14
+            },
+            {
+                "title": "Tracing",
+                "amountOfVideos": 29
+            },
+            {
+                "title": "Security",
+                "amountOfVideos": 79
+            },
+            {
+                "title": "Encryption",
+                "amountOfVideos": 22
+            },
+            {
+                "title": "Hashing",
+                "amountOfVideos": 11
+            },
+            {
+                "title": "SSL/TLS",
+                "amountOfVideos": 36
+            },
+            {
+                "title": "Firewalls",
+                "amountOfVideos": 27
+            },
+            {
+                "title": "Intrusion Detection",
+                "amountOfVideos": 16
+            },
+            {
+                "title": "Penetration Testing",
+                "amountOfVideos": 23
+            },
+            {
+                "title": "Vulnerability Management",
+                "amountOfVideos": 42
+            },
+            {
+                "title": "Compliance",
+                "amountOfVideos": 31
+            },
+            {
+                "title": "Incident Response",
+                "amountOfVideos": 38
+            },
+            {
+                "title": "Disaster Recovery",
+                "amountOfVideos": 20
+            },
+            {
+                "title": "High Availability",
+                "amountOfVideos": 33
+            },
+            {
+                "title": "Load Balancing",
+                "amountOfVideos": 25
+            },
+            {
+                "title": "Auto Scaling",
+                "amountOfVideos": 17
+            },
+            {
+                "title": "Infrastructure Monitoring",
+                "amountOfVideos": 28
+            },
+            {
+                "title": "Application Performance Monitoring",
+                "amountOfVideos": 37
+            },
+            {
+                "title": "Log Management",
+                "amountOfVideos": 19
+            },
+            {
+                "title": "Network Monitoring",
+                "amountOfVideos": 24
+            },
+            {
+                "title": "Security Information and Event Management",
+                "amountOfVideos": 47
+            }
+        
+    ]
+}
